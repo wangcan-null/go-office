@@ -1,7 +1,7 @@
 package paragraph
 
 import (
-	"github.com/Luna-CY/go-office/docx/run"
+	"github.com/wangcan-null/go-office/docx/run"
 	"testing"
 )
 

@@ -5,9 +5,9 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/footer"
-	"github.com/Luna-CY/go-office/docx/header"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/footer"
+	"github.com/wangcan-null/go-office/docx/header"
+	"github.com/wangcan-null/go-office/docx/template"
 	"os"
 )
 

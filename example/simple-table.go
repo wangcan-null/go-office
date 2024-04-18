@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Luna-CY/go-office/docx"
-	"github.com/Luna-CY/go-office/docx/paragraph"
-	"github.com/Luna-CY/go-office/docx/table"
+	"github.com/wangcan-null/go-office/docx"
+	"github.com/wangcan-null/go-office/docx/paragraph"
+	"github.com/wangcan-null/go-office/docx/table"
 	"log"
 )
 

@@ -3,7 +3,7 @@ package paragraph
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 func (p *Paragraph) GetXmlBytes() ([]byte, error) {

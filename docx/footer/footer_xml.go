@@ -2,7 +2,7 @@ package footer
 
 import (
 	"bytes"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 func (f *Footer) GetXmlBytes() ([]byte, error) {

@@ -3,10 +3,10 @@ package docx
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/paragraph"
-	"github.com/Luna-CY/go-office/docx/run"
-	"github.com/Luna-CY/go-office/docx/table"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/paragraph"
+	"github.com/wangcan-null/go-office/docx/run"
+	"github.com/wangcan-null/go-office/docx/table"
+	"github.com/wangcan-null/go-office/docx/template"
 	"sync"
 )
 

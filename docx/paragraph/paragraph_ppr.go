@@ -2,7 +2,7 @@ package paragraph
 
 import (
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/section"
+	"github.com/wangcan-null/go-office/docx/section"
 )
 
 // PPr 段落的样式属性定义

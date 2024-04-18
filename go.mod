@@ -1,3 +1,3 @@
-module github.com/Luna-CY/go-office
+module github.com/wangcan-null/go-office
 
 go 1.15

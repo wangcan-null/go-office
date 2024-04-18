@@ -1,9 +1,9 @@
 package docx
 
 import (
-	"github.com/Luna-CY/go-office/docx/footer"
-	"github.com/Luna-CY/go-office/docx/header"
-	"github.com/Luna-CY/go-office/docx/section"
+	"github.com/wangcan-null/go-office/docx/footer"
+	"github.com/wangcan-null/go-office/docx/header"
+	"github.com/wangcan-null/go-office/docx/section"
 	"sync"
 )
 

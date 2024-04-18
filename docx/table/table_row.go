@@ -3,7 +3,7 @@ package table
 import (
 	"errors"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/table/row"
+	"github.com/wangcan-null/go-office/docx/table/row"
 	"sync"
 )
 

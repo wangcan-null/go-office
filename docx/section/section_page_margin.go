@@ -3,7 +3,7 @@ package section
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 // PageMargin 页面边距配置结构

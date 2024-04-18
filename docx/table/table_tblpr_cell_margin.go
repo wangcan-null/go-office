@@ -3,7 +3,7 @@ package table
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 // CellMargin 单元格边距管理器

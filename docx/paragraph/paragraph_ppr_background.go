@@ -3,7 +3,7 @@ package paragraph
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 // Background 背景配置结构

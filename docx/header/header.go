@@ -2,8 +2,8 @@ package header
 
 import (
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/paragraph"
-	"github.com/Luna-CY/go-office/docx/table"
+	"github.com/wangcan-null/go-office/docx/paragraph"
+	"github.com/wangcan-null/go-office/docx/table"
 	"sync"
 )
 

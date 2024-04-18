@@ -2,10 +2,10 @@ package docx
 
 import (
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/footer"
-	"github.com/Luna-CY/go-office/docx/header"
-	"github.com/Luna-CY/go-office/docx/paragraph"
-	"github.com/Luna-CY/go-office/docx/table"
+	"github.com/wangcan-null/go-office/docx/footer"
+	"github.com/wangcan-null/go-office/docx/header"
+	"github.com/wangcan-null/go-office/docx/paragraph"
+	"github.com/wangcan-null/go-office/docx/table"
 )
 
 // AddParagraph 添加一个段落

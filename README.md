@@ -8,7 +8,7 @@ golang的开源办公套件生成器（非编辑器），支持列表如下：
 
 ## 安装
 
-`go get -u github.com/Luna-CY/go-office`
+`go get -u github.com/wangcan-null/go-office`
 
 ## 使用
 
@@ -16,8 +16,8 @@ golang的开源办公套件生成器（非编辑器），支持列表如下：
 
 ```go
 import (
-    "github.com/Luna-CY/go-office/docx"
-    "github.com/Luna-CY/go-office/docx/paragraph"
+    "github.com/wangcan-null/go-office/docx"
+    "github.com/wangcan-null/go-office/docx/paragraph"
 )
 
 // 创建一个新的文档

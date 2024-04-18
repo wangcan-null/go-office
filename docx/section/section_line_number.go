@@ -3,7 +3,7 @@ package section
 import (
 	"bytes"
 	"fmt"
-	"github.com/Luna-CY/go-office/docx/template"
+	"github.com/wangcan-null/go-office/docx/template"
 )
 
 // LineNumber 行号配置结构
